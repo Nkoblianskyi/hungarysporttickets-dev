@@ -134,8 +134,7 @@ export default function SiteFooter() {
         {/* Bottom bar */}
         <div className="mt-8 pt-6 border-t border-border flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-muted-foreground">
           <p>
-            © {year} HungarySportTickets · hungarysporttickets.com — FISCUS NOSTRUM FUND SERVICES LIMITED,
-            Nicosia, Cyprus. Minden jog fenntartva.
+            © {year} HungarySportTickets · hungarysporttickets.com
           </p>
           <p className="text-center md:text-right">
             <strong className="text-foreground">Másodlagos piac · Csak ár-összehasonlítás · Nem értékesítés</strong>
