@@ -88,7 +88,7 @@ export default function PrivacyPage() {
           <p className="text-sm text-muted-foreground leading-relaxed">
             <strong className="text-foreground">Másodlagos piaci platform.</strong>{" "}
             A HungarySportTickets NEM értékesít jegyeket és NEM gyűjt fizetési adatokat.
-            Üzemeltető: FISCUS NOSTRUM FUND SERVICES LIMITED, Nicosia 1095, Cyprus.
+            Üzemeltető: FISCUS NOSTRUM FUND SERVICES LIMITED, Myrianthous Anna,  Panagioti Kaspi 5A, Nicosia 1095, Cyprus.
           </p>
         </div>
       </div>
@@ -97,9 +97,7 @@ export default function PrivacyPage() {
         {/* Header */}
         <div className="mb-10">
           <div className="flex items-center gap-3 mb-4">
-            <div className="w-10 h-10 rounded-lg bg-primary/10 border border-primary/20 flex items-center justify-center shrink-0">
-              <Shield size={18} className="text-primary" aria-hidden="true" />
-            </div>
+
             <div>
               <p className="text-xs font-bold tracking-widest uppercase text-primary">
                 Jogi dokumentum
@@ -110,7 +108,7 @@ export default function PrivacyPage() {
             </div>
           </div>
           <p className="text-sm text-muted-foreground leading-relaxed">
-            Hatályos: 2026. január 1-jétől. Az adatkezelő: FISCUS NOSTRUM FUND SERVICES LIMITED,
+            Hatályos: 2026. Az adatkezelő: FISCUS NOSTRUM FUND SERVICES LIMITED,
             Myrianthous Anna, Panagioti Kaspi 5Α, Nicosia 1095, Cyprus.
           </p>
         </div>
